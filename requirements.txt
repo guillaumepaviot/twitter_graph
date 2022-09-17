@@ -1,0 +1,32 @@
+blinker==1.4
+brotlipy @ file:///Users/runner/miniforge3/conda-bld/brotlipy_1648854303569/work
+certifi==2022.9.14
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1656783163977/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1662135353230/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1657174084384/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1663284846994/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1657953151081/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1663359044092/work
+munkres==1.1.4
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1662888984243/work
+oauthlib @ file:///home/conda/feedstock_root/build_artifacts/oauthlib_1662766753257/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas==1.4.4
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1660385909106/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1663432570896/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1660580468234/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1661872987712/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1643557462909/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1656938163103/work
+tweepy @ file:///home/conda/feedstock_root/build_artifacts/tweepy_1661262319528/work
+unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1649111971342/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
